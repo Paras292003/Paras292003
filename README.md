@@ -1,16 +1,21 @@
 
-###  Hi 👋🏻 , I'm Paras Malik
-#### Full stack developer Student || CSE undergraduate at DITU
+# Hi there! 👋🏻 I'm Paras Malik
 
-Skills: Java// SQL // REACT // JS // HTML // CSS
+I'm a passionate Full Stack Developer student and a Computer Science & Engineering undergraduate at DITU. Welcome to my GitHub profile! 🚀
 
+- 🔭 I’m currently working on honing my Full Stack Development skills.
+- 🌱 I’m currently learning and exploring various technologies in the field.
+- 💬 Ask me about Java, SQL, React, JavaScript, HTML, CSS – I'm happy to help!
+- 📫 How to reach me: [Gmail](parasmalik292003@gmail.com)
+- 😄 Pronouns: He/Him
 
+## 🚀 Skills and Tools
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Paras292003)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/paras-malik-7a4a98202//)  
+Here are some technologies and tools I enjoy working with:
 
-
-
-
+- Programming Languages: Java
+- Database: SQL, MYSQL
+- Frontend: React, JavaScript, HTML, CSS
 
 
 
