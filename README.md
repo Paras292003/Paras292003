@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻 , I'm Paras Malik</h1>
 <h3 align="center">|| Full stack developer Student || CSE undergraduate at DITU</h3>
 
-<img align="right">alt="coding" width="400" src="https://github.com/Paras292003/Paras292003/blob/main/coding.gif">
+<img align="right">alt="coding" width="400" src="coding.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
